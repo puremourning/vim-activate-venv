@@ -11,6 +11,10 @@ There's just one command:
 
 * `ActivateVirtualEnv <path>` - activate the virtual env rooted at `<path>` in
   vim's embedded python
+  
+# Compatibility
+
+Vim 8.2
 
 # Working with virtualenv Jupyter
 
